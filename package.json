@@ -29,7 +29,7 @@
   },
   "optionalDependencies": {},
   "engines": {
-    "node": "^0.10.36"
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",
